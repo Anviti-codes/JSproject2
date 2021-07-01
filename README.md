@@ -1,0 +1,1 @@
+#If you manage to avoid the chorebot until you open the last door. You Win!
